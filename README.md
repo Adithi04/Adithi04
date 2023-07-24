@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Front-end development 
 - 💞️ I’m looking to collaborate on development projects
 - 🙌 I'm working on enhancing my knowledge on python, java, HTML, CSS, javascript 
-- 📫 you can reach me on my gmail account: adithimanesh@gmail.com
+- 📫 you can reach me on my gmail account: maneshadithi@gmail.com
 
 <!---
 Adithi04/Adithi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
