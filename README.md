@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
  <head>
     <style>
     img {
-      height="60px"
-      width="60px"
+      height="60px";
+      width="60px";
      }
     </style>
     </head>
