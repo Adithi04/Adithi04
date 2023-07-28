@@ -14,12 +14,13 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
   <style>
+ <head>
+    <style>
     img {
-      height: 30px;
-      width: 30px;
-      float: right;
-      }
-  </style>
+      height="60px"
+      width="60px"
+    </style>
+    </head>
   <body>
 <img src="https://i.pinimg.com/736x/8c/fb/3d/8cfb3da600bd39ea7a591608f3b3660d.jpg" >
   </body>
