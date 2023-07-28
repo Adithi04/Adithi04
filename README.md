@@ -9,6 +9,6 @@
       width="300px" >
    </p>
    <p> Let us connect <a href="www.linkedin.com/in/adithimanesh"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="50px" width="50px" >
-   <a href="mailto:adithimanesh@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50px" width="50px"></a></p>
+   <a href="mailto:adithimanesh@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50px" width="60px"></a></p>
   </body>
 </html>
