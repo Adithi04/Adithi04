@@ -5,7 +5,7 @@
   </head>
   <body>
    <p><center>
-<img src="https://blog.siliconvalleyinternational.org/hs-fs/hubfs/Claire1-Self.jpg?width=640&name=Claire1-Self.jpg"  height="300px"
+<img src="https://artfiles.alphacoders.com/153/153522.png"  height="300px"
       width="300px" >
    </center></p>
    <h2> Let us connect and have a chat!<a href="www.linkedin.com/in/adithimanesh"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="50px" width="50px" >
