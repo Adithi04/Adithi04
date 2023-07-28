@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
  <head>
+  <style>
+    h1 {text-align: center;}
+      p {text-align: center;}
+  </style>
   <h1><center> HELLO EVERYONE </center></h1>
   </head>
   <body>
