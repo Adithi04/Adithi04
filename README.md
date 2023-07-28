@@ -8,10 +8,10 @@
 <img src="https://artfiles.alphacoders.com/153/153522.png"  height="300px"
       width="300px" >
    </center></p>
-   <h2> Let us connect and have a chat!<a href="www.linkedin.com/in/adithimanesh"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="50px" width="50px" >
+   <h2> Let us connect and have a chat! <br><a href="www.linkedin.com/in/adithimanesh"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="50px" width="50px" >
    <a href="mailto:adithimanesh@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50px" width="90px"></a>
    </h2>
-    <h3> Skill set and tools
+    <h3> Skill set and tools <br>
      <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" height="50px" width="50px">
      <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" height="50px" width="50px">
      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50px" width="50px">
