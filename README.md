@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <h1><center> HELLO EVERYONE </center></h1>
+  <h1> <center> HELLO EVERYONE </center> </h1>
   </head>
   <body>
    <p text-align: center>
